@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Haymoux
 - 👀 I’m interested in blockchain and full stack development
-- 🌱 I’m currently learning
+- 🌱 Out here to build excellent stuff
 - 💞️ I’m looking to collaborate on full stack projects
 - 📫 How to reach me <a href="https://www.linkedin.com/in/peter-amos1/">LinkedIn</a>
 
